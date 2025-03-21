@@ -2,5 +2,9 @@
   "homepage": "https://sooanp.github.io/my_portfolio/",
   "dependencies": {
     "gh-pages": "^6.3.0"
-  }
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+}
 }
