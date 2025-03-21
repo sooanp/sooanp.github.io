@@ -18,10 +18,18 @@ function App() {
         <h2>Projects</h2>
         <ul>
           <li>
-            <a href="https://github.com/sooanp/Cluster_Analysis">Cluster Analysis</a>: Description of your first project.
+            <a href="https://github.com/sooanp/Cluster_Analysis">Cluster Analysis</a>: End-to-End software engineering team project from univesity course. Mainly worked
+            as a front-end developer as part of the team. Using the preprocessed geo data, we create a web application
+            that re-districts Florida, Illinois, and Lousiana states based on different filters such as population density, race, etc.
+            Also, the application provides cluster analysis of different state districtions.
           </li>
           <li>
-            <a href="https://github.com/sooanp/Unsupervised_Continual_Learning_Spiking_Neural_Network">Unsupervised Continual Learning with Spiking Neural Network</a>: Description of your second project.
+            <a href="https://github.com/sooanp/Unsupervised_Continual_Learning_Spiking_Neural_Network">Unsupervised Continual Learning with Spiking Neural Network</a>: Main experimental project
+            I performed in Brain-inspired Computing Lab. In order to mitigate catastrophic forgetting of continual learning while maintaining unsupervised learning ability,
+            I have implemented a dynamic network architectural spiking neural network. SNN was chosen inspired by its' bio-plausibility. Even though neural networks were
+            originally inspired by human brains, they still suffered from catastrophic forgetting unlike humans. This thought lead me to use Spiking neural network, a third-generational neural network
+            to handle this task. After multiple experiments and extensive research, I was able to achieve average of 92% accuracy on split MNIST task in unsupervised learning environment, comparable to
+            other similar studies.
           </li>
           {/* Add more projects */}
         </ul>
