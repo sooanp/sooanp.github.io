@@ -1,11 +1,16 @@
-.App {
-  font-family: Arial, sans-serif;
-  text-align: center;
-  margin: 0;
-  padding: 0;
+body, html {
+  height: 100%; /* Ensure the page takes the full height */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
 }
 
-.App-header {
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Ensure the app takes at least the full height of the viewport */
+}
+
+header {
   background-color: #282c34;
   color: white;
   padding: 50px;
@@ -37,7 +42,6 @@ footer {
   background-color: #282c34;
   color: white;
   padding: 10px;
-  position: absolute;
-  bottom: 0;
-  width: 100%;
+  text-align: center;
+  margin-top: auto; /* Pushes the footer to the bottom */
 }

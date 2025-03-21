@@ -49,8 +49,8 @@ function App() {
 
       <section id="contact">
         <h2>Contact</h2>
-        <p>Email: <a href="mailto:sooanpark@example.com">sooan.park@stonybrook.edu</a></p>
-        <p>LinkedIn: <a href="https://linkedin.com/in/sooanpark">https://www.linkedin.com/in/sooan-park-77197b18b/</a></p>
+        <p>Email: <a href="mailto:sooan.park@stonybrook.edu">sooan.park@stonybrook.edu</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/sooan-park-77197b18b/">https://www.linkedin.com/in/sooan-park-77197b18b/</a></p>
       </section>
 
       <footer>
