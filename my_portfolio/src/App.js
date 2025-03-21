@@ -18,10 +18,10 @@ function App() {
         <h2>Projects</h2>
         <ul>
           <li>
-            <a href="https://github.com/username/project1">Project 1</a>: Description of your first project.
+            <a href="https://github.com/sooanp/Cluster_Analysis">Cluster Analysis</a>: Description of your first project.
           </li>
           <li>
-            <a href="https://github.com/username/project2">Project 2</a>: Description of your second project.
+            <a href="https://github.com/sooanp/Unsupervised_Continual_Learning_Spiking_Neural_Network">Unsupervised Continual Learning with Spiking Neural Network</a>: Description of your second project.
           </li>
           {/* Add more projects */}
         </ul>
@@ -41,8 +41,8 @@ function App() {
 
       <section id="contact">
         <h2>Contact</h2>
-        <p>Email: <a href="mailto:sooanpark@example.com">sooanpark@example.com</a></p>
-        <p>LinkedIn: <a href="https://linkedin.com/in/sooanpark">linkedin.com/in/sooanpark</a></p>
+        <p>Email: <a href="mailto:sooanpark@example.com">sooan.park@stonybrook.edu</a></p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/sooanpark">https://www.linkedin.com/in/sooan-park-77197b18b/</a></p>
       </section>
 
       <footer>
