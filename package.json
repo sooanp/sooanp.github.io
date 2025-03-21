@@ -1,10 +1,10 @@
 {
+  "homepage": "https://sooanp.github.io",
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-  "homepage": "https://sooanp.github.io"
-  ,"scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
-}
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
 }
